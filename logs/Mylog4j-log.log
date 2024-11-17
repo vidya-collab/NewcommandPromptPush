@@ -1,0 +1,13 @@
+[INFO ]2024-11-0721:07:58.565[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-0721:07:58.583[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[INFO ]2024-11-0721:08:43.482[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-0721:08:43.498[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[INFO ]2024-11-0721:25:29.475[main]dsutilities.LoggerLoad1)-Method opening_browser_and_launchin_tutorialninja_com_pom
+[INFO ]2024-11-0721:25:32.175[main]dsutilities.LoggerLoad1)-Method navigate_to_select_euro_currency_pom
+[INFO ]2024-11-0721:25:32.299[main]dsutilities.LoggerLoad1)-Method click_on_euro_currency_pom
+[INFO ]2024-11-0721:27:01.524[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method opening_browser_and_launchin_tutorialninja_com_pom
+[INFO ]2024-11-0721:27:04.136[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method navigate_to_select_euro_currency_pom
+[INFO ]2024-11-0721:27:04.385[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method click_on_euro_currency_pom
+[INFO ]2024-11-1014:47:54.845[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method opening_browser_and_launchin_tutorialninja_com_pom
+[INFO ]2024-11-1014:47:57.962[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method navigate_to_select_euro_currency_pom
+[INFO ]2024-11-1014:47:58.063[TestNG-PoolService-1]dsutilities.LoggerLoad1)-Method click_on_euro_currency_pom
